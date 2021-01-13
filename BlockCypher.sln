@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlockCypher.API.Csharp.Client.Domain", "BlockCypher.API.Csharp.Client.Domain\BlockCypher.API.Csharp.Client.Domain.csproj", "{46887336-7B4C-46FA-9FF5-F105C6EE5F90}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlockCypher.API.Csharp.Client.Models", "BlockCypher.API.Csharp.Client.Models\BlockCypher.API.Csharp.Client.Models.csproj", "{C1D72388-F6B8-4D67-A6F2-438A09EE6426}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlockCypher.API.Csharp.Client", "BlockCypher.API.Csharp.Client\BlockCypher.API.Csharp.Client.csproj", "{ABA01A6E-ADD3-4577-AEC5-CBB928D2F188}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46887336-7B4C-46FA-9FF5-F105C6EE5F90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46887336-7B4C-46FA-9FF5-F105C6EE5F90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46887336-7B4C-46FA-9FF5-F105C6EE5F90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46887336-7B4C-46FA-9FF5-F105C6EE5F90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1D72388-F6B8-4D67-A6F2-438A09EE6426}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1D72388-F6B8-4D67-A6F2-438A09EE6426}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1D72388-F6B8-4D67-A6F2-438A09EE6426}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1D72388-F6B8-4D67-A6F2-438A09EE6426}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABA01A6E-ADD3-4577-AEC5-CBB928D2F188}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABA01A6E-ADD3-4577-AEC5-CBB928D2F188}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABA01A6E-ADD3-4577-AEC5-CBB928D2F188}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABA01A6E-ADD3-4577-AEC5-CBB928D2F188}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C0AB8B9-0348-4508-9993-CAADA6F76A37}
+	EndGlobalSection
+EndGlobal
